@@ -128,6 +128,10 @@ Live (`ESTABLISHED`) connections are never targeted. Only sockets in `TIME_WAIT`
   belong to the kernel, not to any process or interface.
 - `tcpdrop`. macOS doesn't have it.
 
+## License
+
+[MIT](LICENSE) © 2026 Vlad Collak
+
 ## Disclaimer
 
 This forges TCP packets into your own machine's network stack. It worked reliably in testing, but

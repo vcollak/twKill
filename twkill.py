@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Vlad Collak
 """
 twkill.py - clear stuck TCP TIME_WAIT sockets on macOS without rebooting.
 
